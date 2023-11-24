@@ -1,4 +1,4 @@
-//@author:Ключерев Артемий.
+//@author:Ключерев Артемий
 #pragma once
 
 #include <iostream>
